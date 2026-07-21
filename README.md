@@ -44,10 +44,10 @@ https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
 The Logistic Regression model was successfully trained and evaluated on the Telco Customer Churn dataset. The model achieved satisfactory classification performance, with good overall accuracy in predicting customer churn. The evaluation metrics, including Accuracy, Precision, Recall, and F1-Score, demonstrated that the model effectively identified churn patterns while maintaining balanced classification performance. The Confusion Matrix further illustrated the model's ability to correctly classify most customer records, although some churn cases were misclassified.
 
-Accuracy Score : 0.8168914123491838
-Precision      :  0.6802507836990596
-Recall         : 0.5817694369973191
-F1-Score       : 0.6271676300578035
+*Accuracy Score : 0.8168914123491838
+*Precision      :  0.6802507836990596
+*Recall         : 0.5817694369973191
+*F1-Score       : 0.6271676300578035
 
 ---
 
