@@ -64,7 +64,7 @@ The project successfully demonstrated the use of Logistic Regression for predict
 
 ---
 
-**Author:** Your Name
+**Author:** Soumyodyuti Ray
 
 **Assignment:** Assignment-2
 
