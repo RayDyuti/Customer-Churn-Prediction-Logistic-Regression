@@ -46,10 +46,10 @@ The Logistic Regression model was successfully trained and evaluated on the Telc
 
  ---
 
-*Accuracy Score : 0.8168914123491838
-*Precision      :  0.6802507836990596
-*Recall         : 0.5817694369973191
-*F1-Score       : 0.6271676300578035
+* Accuracy Score : 0.8168914123491838
+* Precision      :  0.6802507836990596
+* Recall         : 0.5817694369973191
+* F1-Score       : 0.6271676300578035
 
 
 
